@@ -1,4 +1,16 @@
-
+.bigCounter {
+  text-align: center;
+  background-color: black;
+}
+.bigCounter div {
+  display: inline-block;
+  font-size: 3.75rem;
+  line-height: 3.75rem;
+  background: #101010;
+  padding: 0.625rem;
+  margin: 0.188rem;
+  color: white;
+}
 /* 
 
     You can write your own styles here...
